@@ -64,3 +64,6 @@ Replace the Task model/controller/routes/validators (backend) and `Dashboard`/`T
 
 ## Not included (add when needed)
 Email verification & password reset (needs an email provider), file uploads, payments, Playwright E2E tests, CI pipeline, PWA manifest/service worker, error-tracking service.
+
+
+Developed By Ntwari Balinda Espoir and Mukeshimana Kevin
